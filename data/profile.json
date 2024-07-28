@@ -1,0 +1,66 @@
+{
+  "name": "Joao C Ferreira",
+  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "job": "Front end / Freelancer",
+  "location": "Teresina - Pi",
+  "phone": "(86) 99903-2854",
+  "email": "castelopiaui7@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (basico)"
+  ],
+  "portfolio": [
+
+    {
+      "name": "Curso Potencia tech ifood - Programação do zero",
+      "url": "https://hermes.dio.me/certificates/82C2E7D8.pdf",
+      "github": true
+    },
+    {
+      "name": "Curso Desenvolvimento Frontend com Angular",
+      "url": "https://hermes.dio.me/certificates/428CF776.pdf",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Front end Developed / Freelancer",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    }
+  ]
+}
