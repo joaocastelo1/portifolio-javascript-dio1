@@ -45,6 +45,18 @@ Implementar animações usando JavaScript ou bibliotecas de CSS.
 
 Adicionar um sistema de envio de mensagens (formulário com backend).
 
+<br>
+<div id="user-content-toc">
+  <ul align="center">
+    <h2 style="display: inline-block">Imagens:</h2>
+  </ul>
+</div>
+
+<div align="center"> 
+  <img src="https://i.postimg.cc/c4YpFw51/Screenshot-1.png">
+</div>
+<br>
+
 📝 Licença
 Projeto desenvolvido para fins educacionais e prática de desenvolvimento web.
 © 2025 - João Castelo de Sousa Ferreira
